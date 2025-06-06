@@ -1,2 +1,2 @@
 # spotify
-Spotify is a web page created to make people access music 
+Spotify is a web page created to make people access music.
